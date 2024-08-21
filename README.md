@@ -1,6 +1,6 @@
-# Middleware Backup System
+# Backup System
 
-This repository contains the source code for a middleware backup system that handles both local and cloud backups. 
+This repository contains the source code for a backup system that handles both local and cloud backups. 
 
 ## Overview
 
